@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="engine-commons" />
         <module name="engine-minestom" />
+        <module name="engine-spigot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
